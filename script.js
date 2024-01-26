@@ -1,7 +1,7 @@
 // add function to the button
-const btn = document.getElementById("my-button");
+const btn = document.getElementById("berlin");
 btn.addEventListener("click", function(){
-    alert("You clicked me!")
+    window.location.href="https://www.uefa.com/euro2024/hosts/berlin/" 
     console.log("button was clicked!")
 }
 )

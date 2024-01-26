@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Olympiastadion Berlin",
+          "City": "Berlin",
+          "Matches": 6,
+          "Capacity": 71000,
+          "marker-color": "#d90000",
+          "marker-size": "large"
+        },
+        "geometry": {
+          "coordinates": [
+            13.239296619048929,
+            52.515453113145355
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Cologne Stadium",
+          "City": "Cologne",
+          "Matches": 5,
+          "Capacity": 43000,
+          "marker-color": "#fa6c30",
+          "marker-size": "small"
+        },
+        "geometry": {
+          "coordinates": [
+            6.875888078048547,
+            50.933677864580346
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "BVB Stadion Dortmund",
+          "City": "Dortmund",
+          "Capacity": 62000,
+          "Matches": 6,
+          "marker-color": "#d90000",
+          "marker-size": "large"
+        },
+        "geometry": {
+          "coordinates": [
+            7.45096060846106,
+            51.492837646119256
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Düsseldorf Arena ",
+          "City": "Düsseldorf",
+          "Matches": 5,
+          "Capacity": 47000,
+          "marker-color": "#fa6c30",
+          "marker-size": "small"
+        },
+        "geometry": {
+          "coordinates": [
+            6.73397979894952,
+            51.26194591992888
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "City": "Frankfurt",
+          "Stadium": "Frankfurt Arena ",
+          "Matches": 5,
+          "Capacity": 47000,
+          "marker-color": "#fa6c30",
+          "marker-size": "small"
+        },
+        "geometry": {
+          "coordinates": [
+            8.646676879801106,
+            50.06869903282029
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Arena AufSchalke ",
+          "City": "Gelsenkirchen",
+          "Matches": 4,
+          "Capacity": 50000,
+          "marker-color": "#ffcccc",
+          "marker-size": "medium"
+        },
+        "geometry": {
+          "coordinates": [
+            7.068012424606962,
+            51.55470623607712
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Volksparkstadion Hamburg ",
+          "City": "Hamburg ",
+          "Matches": 5,
+          "Capacity": 49000,
+          "marker-color": "#fa6c30",
+          "marker-size": "small"
+        },
+        "geometry": {
+          "coordinates": [
+            9.899245230163643,
+            53.58724311744632
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Leipzig Stadium",
+          "City": "Leipzig",
+          "Matches": 4,
+          "Capacity": 40000,
+          "marker-color": "#ffcccc",
+          "marker-size": "small"
+        },
+        "geometry": {
+          "coordinates": [
+            12.349289404755098,
+            51.345949069406714
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Munich Football Arena ",
+          "City": "Munich",
+          "Matches": 6,
+          "Capacity": 66000,
+          "marker-color": "#d90000",
+          "marker-size": "large"
+        },
+        "geometry": {
+          "coordinates": [
+            11.625604747358693,
+            48.2190678935747
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Stadium": "Stuttgart Arena",
+          "City": "Stuttgart",
+          "Matches": 5,
+          "Capacity": 51000,
+          "marker-color": "#fa6c30",
+          "marker-size": "medium"
+        },
+        "geometry": {
+          "coordinates": [
+            9.233189817471157,
+            48.7924377309848
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      }
+    ]
+  }
